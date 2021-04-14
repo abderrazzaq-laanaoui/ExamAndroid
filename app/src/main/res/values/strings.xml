@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AgeCalculator</string>
+    <string name="exam">EXAM</string>
+    <string name="quantity">Quantité</string>
+    <string name="copyright">Copyright@2021</string>
+    <string name="result_into">Le montant à payer est:</string>
+</resources>
